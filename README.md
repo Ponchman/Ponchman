@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ponchman
-- 👀 I’m interested in backend and game development
+- 👀 I’m interested in backend, android and game development
 - 🌱 I’m currently learning Kotlin/Spring and C#
 - 📫 How to reach me: 
 - Discord: Ponchman#3707
